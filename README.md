@@ -1,4 +1,6 @@
-# Hello world
+# Zadania
+- biblioteka w Node.js na podstawie filmu na YT (https://www.youtube.com/watch?v=XxvuzLWp5yI)
+- referat: sceeny, wycinki kody, ciekawe rzeczy dla programistów, filmiki przedstawiające działanie
 
-## I hate this already :D
-2026-03-13: Nice
+## Termin
+Koniec marca
